@@ -2,6 +2,8 @@
 
 A small, composable Python framework for building goal-directed LLM agents.
 
+![Zurvan Illustration](assets/zurvan.png)
+
 ## What it is
 
 `zurvan` runs a **GAME loop** — Goals, Actions, Memory, Environment — over
